@@ -15,13 +15,13 @@ PART I:
 
 Model Phase 1: 
 
-- USE selected video (download the video on your local disk) focusing on your –at least two- celebrities. (In Hackathon, we are going to provide a sample celebrity video for you)
+- USE selected video (download the video on your local disk) focusing on your –at least two- celebrities.
 
 - Construct your Training DataSet (including your celebrity faces images)
   
 (The face images should be in variable size. For making easy, you should consider only two cases: Big face and small face)
 
-- Code the model (YOU ARE LIMITED with the MODELS learned in the Muhammet Erdem’s ANN Course) to learn Celebrities faces in two-variable size such as CelebrityA’s small face or big face.
+- Code the model to learn Celebrities faces in two-variable size such as CelebrityA’s small face or big face.
 
 - Write down the code classifying Celebrities’s big faces/small faces and non (at least 5 categories)
   
@@ -44,3 +44,6 @@ Registering Phase 3:
 - USE OpenCV’s Face Detector to Find and Register other Faces on the video. Put their face images into “others” dataset (i.e. folder on your disk)
   
 - Compare the OTHERS to find out, how many UNIQUE Faces are detected in the video.
+
+## Description Of Pdf File
+You can find explanations about the code and the techniques used in the pdf file.
